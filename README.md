@@ -34,7 +34,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 HOME PAGE :
 
 <!DOCTYPE html>
@@ -221,7 +221,7 @@ CONTACT US:
         </body>
         </html>
 
-
+```
 
 ## OUTPUT:
 
